@@ -127,7 +127,7 @@ turtle.forward(20)
 turtle.end_fill()
 
 
-#	2nd Star
+#	6th Star
 
 turtle.penup()
 turtle.setposition(250,10)
