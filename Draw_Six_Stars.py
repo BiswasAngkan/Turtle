@@ -1,6 +1,6 @@
 #	Angkan Biswas
 #	Date-31.03.2019
-#	To Draw Star without any user-defined function
+#	To Draw six STARS without any user-defined function
 
 import turtle
 from time import sleep
