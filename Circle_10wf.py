@@ -1,12 +1,12 @@
 #	Angkan Biswas
 #	04.04.2019
-#	To draw 10 circles
+#	To draw 10 circles using a user defined function
 
 
 
 import turtle
 
-#	A function to draw a circle
+#	A user defined function to draw a circle
 
 def draw_circle(r,c):
 	turtle.color(c)
@@ -23,7 +23,7 @@ draw_circle(60,'yellow')
 draw_circle(50,'#BF3EFF')
 draw_circle(40,'green')
 draw_circle(30,'black')
-draw_circle(20,' #FF7D40')
+draw_circle(20,'#FF7D40')
 draw_circle(10,'black')
 draw_circle(5,'green')
 
